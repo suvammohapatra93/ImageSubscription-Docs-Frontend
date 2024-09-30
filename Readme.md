@@ -1,4 +1,4 @@
-# Suam's Image Subscription App
+# Suvam's Image Subscription App
 
 ## Overview
 
